@@ -12,7 +12,7 @@ import { Corredor } from './entities/corredor.entity';
 })
 
 
-// HOLAjhbjhhj
+// HOLAjhbjhhjdjasdsjajda
 
 
 export class CorredorModule {}
