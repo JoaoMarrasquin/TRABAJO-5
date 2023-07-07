@@ -21,4 +21,5 @@ ENV DB_PORT='7471'
 ENV DB_USERNAME='postgres'
 EXPOSE 3000
 
+
 CMD [ "node", "dist/main"]
